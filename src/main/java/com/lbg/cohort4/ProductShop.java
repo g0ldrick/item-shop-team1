@@ -1,9 +1,6 @@
 package com.lbg.cohort4;
 
 import java.util.ArrayList;
-import java.util.Enumeration;
-import java.util.HashMap;
-import java.util.Hashtable;
 
 public class ProductShop {
     ArrayList<Product> products;
