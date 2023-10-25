@@ -8,8 +8,8 @@ public class App {
     public static void main( String[] args )
     {
         ProductShop shop = new ProductShop();
-        shop.basketTotal();
-
+        shop.populateShop(20);
+        shop.showProducts();
 
     }
 }
